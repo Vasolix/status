@@ -4,19 +4,19 @@
     "url": "https://vasolix.xyz",
     "icon": "https://favicons.githubusercontent.com/vasolix.xyz",
     "slug": "vasolix-xyz",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 514,
-    "timeDay": 504,
-    "timeWeek": 514,
-    "timeMonth": 514,
-    "timeYear": 514,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 509,
+    "timeDay": 493,
+    "timeWeek": 509,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2022-04-01": 1
+      "2022-04-01": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://panel.vasolix.xyz",
     "icon": "https://favicons.githubusercontent.com/panel.vasolix.xyz",
     "slug": "panel-vasolix-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 726,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 678,
+    "timeDay": 655,
+    "timeWeek": 678,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2022-04-01": 0
+      "2022-04-01": 7
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-01": 1160,
+      "2022-04-01": 1167,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 48
